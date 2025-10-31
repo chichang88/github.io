@@ -10,4 +10,4 @@ Coursework covers Python, R, MySQL, programming languages, and data visualizatio
 
 * **Email:** [chiehhsiungchang1@bison.howard.edu](mailto:chiehhsiungchang1@bison.howard.edu)
 * **LinkedIn:** [https://www.linkedin.com/in/chi-c-05442a2b4/
-](https://www.linkedin.com/in/chi-c-05442a2b4/
+](https://www.linkedin.com/in/chi-c-05442a2b4/)
