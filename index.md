@@ -1,11 +1,13 @@
-# LaKeta L Kemp  
+# Chieh H Chang
 
-Accomplished Data Scientist and current Ph.D. Candidate with a proven track record of leveraging advanced machine learning, statistical analysis, and predictive modeling to solve complex problems. Experienced in developing solutions for critical infrastructure, public health, and business intelligence. Seeking to apply expertise in a challenging research or applied data science role that drives impactful, data-informed decisions.
+Accomplished technology project and systems analyst with over fifteen years of business/systems innovation experiences with demonstrated success in producing the best business and IT practices for various manufacturing, health, education and technology industries in the United States, and Taiwan. 
+Experienced professional in project coordination and resource management with demonstrated success in achieving project goals and building a successful infrastructure and organization. Fluent in English, Mandarin Chinese and Taiwanese.
+Coursework covers Python, R, MySQL, programming languages, and data visualization tools like Tableau and Power BI and ArcGIS, and machine learning techniques like Linear Regression, Logistic Regression, and Random Forest.
+
  ---
 
 ### Contact Me
 
-* **Email:** [laketa.kemp1@howard.edu](mailto:laketa.kemp1@howard.edu)
-* **LinkedIn:** [https://www.linkedin.com/in/laketalkemp/
-Links to an external site.](https://www.linkedin.com/in/laketalkemp/
-Links to an external site.)
+* **Email:** [chiehhsiungchang1@bison.howard.edu](mailto:chiehhsiungchang1@bison.howard.edu)
+* **LinkedIn:** [https://www.linkedin.com/in/chi-c-05442a2b4/
+](https://www.linkedin.com/in/chi-c-05442a2b4/
